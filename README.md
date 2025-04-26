@@ -1,9 +1,5 @@
 # EX 4 : ELLIPSE DRAWING ALGORITHM
 
-NAME : MOHAMED NIZAMUDDIN A
-
-REG NO: 212224040194
-
 **AIM :**
 
 
@@ -111,6 +107,9 @@ int plotpoints(int xcenter,int ycenter,int x,int y)
   return 0;
  
 }
+Program to implement the Bresenham’s  algorithm for ellipse using a c coding.
+Developed by: VIGNESH G
+Register Number: 212224230301
 ```
 
 
